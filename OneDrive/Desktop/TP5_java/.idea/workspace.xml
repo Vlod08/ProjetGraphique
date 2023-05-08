@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5317b310-c791-4ae5-b03b-49a9785a7dc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TP5_java/src/et3/java/geometrie/CollectionFormeHomogene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5_java/src/et3/java/geometrie/CollectionFormeHomogeneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5_java/src/et3/java/geometrie/CollectionFormeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5_java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP5_java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5_java/TP5_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5_java/et3_java_exo5_PrenomNom(1).odt" beforeDir="false" afterPath="$PROJECT_DIR$/TP5_java/et3_java_exo5_PrenomNom(1).odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5_java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP5_java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5_java/src/et3/java/geometrie/CollectionForme.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP5_java/src/et3/java/geometrie/CollectionForme.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TP5_java" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P00cpNOBZz1rDZbtuFDmT0VZf9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lokes/OneDrive/Desktop/TP5_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5317b310-c791-4ae5-b03b-49a9785a7dc7" name="Changes" comment="" />
+      <created>1682578773897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682578773897</updated>
+      <workItem from="1682578775098" duration="33000" />
+      <workItem from="1682579010379" duration="411000" />
+      <workItem from="1682579441229" duration="3697000" />
+      <workItem from="1682584604538" duration="14000" />
+      <workItem from="1683447439149" duration="2147000" />
+      <workItem from="1683454768074" duration="26000" />
+      <workItem from="1683527164868" duration="2157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
